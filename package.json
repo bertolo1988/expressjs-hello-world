@@ -1,0 +1,30 @@
+{
+  "name": "expressjs-hello-world",
+  "version": "1.0.0",
+  "description": "An hello world express app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertolo1988/expressjs-hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "test",
+    "express",
+    "rest"
+  ],
+  "author": "tiagobertolo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bertolo1988/expressjs-hello-world/issues"
+  },
+  "homepage": "https://github.com/bertolo1988/expressjs-hello-world#readme"
+}
